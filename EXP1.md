@@ -88,35 +88,15 @@ iterate()
 
 ### Output:
 
+![Screenshot 2025-03-13 033642](https://github.com/user-attachments/assets/b3b3c990-4011-4453-827f-172e50dd58f0)
 
-Enter a positive value for START: 3
-Enter a positive value for END: 10
-3
-4
-5
-6
-7
-8
-9
-Enter a value for N: b
-Enter a valid number.
+![Screenshot 2025-03-13 033902](https://github.com/user-attachments/assets/daa1c5fd-3027-4320-b0e2-7ae59d7e2025)
 
-Enter a positive value for START: 6
-Enter a positive value for END: -6
-Enter a valid positive number.
+![Screenshot 2025-03-13 034013](https://github.com/user-attachments/assets/d3403418-de9e-4a8a-a4e6-c2b8957fdf9c)
 
-Enter a value for N: r
-Enter a valid number.
+![Screenshot 2025-03-13 034551](https://github.com/user-attachments/assets/05ec3fd6-fac7-46c0-9ca6-df9d1baf67fe)
 
-Enter a value for A:7
-Enter a value for B:9
-B is greater than
-
-Enter a string:software
-115 111 102 116 119 97 114 101
-
-
-
+![Screenshot 2025-03-13 034736](https://github.com/user-attachments/assets/5af3291e-7199-4faf-bc41-e02149f13a17)
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
