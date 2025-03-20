@@ -70,7 +70,7 @@ def compare():
             print("A is equal to B")
     except ValueError:
         print("Enter a valid number.")
-
+compare()
 
 def iterate():
     string=input("Enter a string:")
@@ -88,15 +88,12 @@ iterate()
 
 ### Output:
 
-![Screenshot 2025-03-13 033642](https://github.com/user-attachments/assets/b3b3c990-4011-4453-827f-172e50dd58f0)
+![Screenshot 2025-03-20 084204](https://github.com/user-attachments/assets/829f9bc0-6019-4897-9932-63a61915d984)
+![Screenshot 2025-03-20 084458](https://github.com/user-attachments/assets/7c032dfe-994b-488f-a3c2-cff540c424bf)
+![Screenshot 2025-03-20 084641](https://github.com/user-attachments/assets/aac34abe-79ca-4835-88e0-6453b3f16b09)
+![Screenshot 2025-03-20 084846](https://github.com/user-attachments/assets/8bb2a2d8-0d42-46bb-9409-b9dfbef8751d)
+![Screenshot 2025-03-20 084959](https://github.com/user-attachments/assets/4bae6579-db51-48ef-bce9-db1d2a8854b6)
 
-![Screenshot 2025-03-13 033902](https://github.com/user-attachments/assets/daa1c5fd-3027-4320-b0e2-7ae59d7e2025)
-
-![Screenshot 2025-03-13 034013](https://github.com/user-attachments/assets/d3403418-de9e-4a8a-a4e6-c2b8957fdf9c)
-
-![Screenshot 2025-03-13 034551](https://github.com/user-attachments/assets/05ec3fd6-fac7-46c0-9ca6-df9d1baf67fe)
-
-![Screenshot 2025-03-13 034736](https://github.com/user-attachments/assets/5af3291e-7199-4faf-bc41-e02149f13a17)
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
