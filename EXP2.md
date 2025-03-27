@@ -85,7 +85,9 @@ else:
 ### Output:
 
 
-![Screenshot 2025-03-20 090729](https://github.com/user-attachments/assets/4b4c1458-1d03-478f-b540-5dca20284b4f)
+![Screenshot 2025-03-27 084804](https://github.com/user-attachments/assets/30bc76f2-143b-4a50-b008-0525ebf9f7ee)
+
+![Screenshot 2025-03-27 084816](https://github.com/user-attachments/assets/5cf3d066-1f1b-480e-a4e7-07393ab9154d)
 
 
 
